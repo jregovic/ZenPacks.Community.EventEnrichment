@@ -1,0 +1,3 @@
+[zenoss.zenpacks]
+ZenPacks.Community.EventEnrichment = ZenPacks.Community.EventEnrichment
+

@@ -1,0 +1,14 @@
+{
+    "EventDetailItem" : [
+        {
+            "name" : "Expire Time",
+            "key" : "zenpack.community.eventenrichment.expireTime",
+            "type" : 2
+        },
+        {
+            "name" : "Expire Set",
+            "key" : "zenpack.community.eventenrichment.expireSet",
+            "type" : 2
+        }
+    ]
+}
